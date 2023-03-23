@@ -1,0 +1,4 @@
+*.swp
+dist
+fyne-cross
+build.sh
